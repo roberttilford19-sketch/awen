@@ -24,19 +24,19 @@
 
 ## The second handful — sent minutes later, same gift
 
-6. **"Awen and the magic of sound in bardic poetry" — Mystic Arts in Wales, Episode 1 (The Welsh Mystic)**
+6. **"Awen and the magic of sound in bardic poetry" — Victoria Folkheart (The Welsh Mystic), Mystic Arts in Wales, Episode 1**
    https://youtu.be/glfJzdzEaTo
    Awen beside Aho and Amen: sound, breath, and wind in Welsh tradition; what the bards may have understood about sound and the subconscious; rhythm and repetition then and now; simple practices for tapping into Awen through breath and sound. Practitioner grade, in its own "spirit science" framing — carried as its maker's teaching, not as measured science.
 
-7. **A Short — "⚡️⚡️⚡️AWEN⚡️⚡️⚡️"**
+7. **A Short — "⚡️⚡️⚡️AWEN⚡️⚡️⚡️" (@cytlaliyeyetzibrujaangelic5505)**
    https://youtube.com/shorts/FaGxnmMs3bM
-   Title verified by the desk's direct read of the YouTube page on 2026-10-27. A lightning-flash titled Short on Awen itself; maker and spoken content not returned by that read — carried as a brief emblem piece, identification of its maker pending.
+   Identified fully by the desk's browser pass on 2026-10-27: a looping Spanish narration — Awen as a symbol of divine inspiration and illumination, its three rays the harmony of opposites, the two outer rays masculine and feminine energy; a robed figure among standing stones, then the gold three-ray sign inside Celtic knotwork. 99 likes and no comments at the viewing.
 
-8. **A Short — "#awen #symbolism #symbols #druids"**
+8. **A Short — "#awen #symbolism #symbols #druids" (@elazazzelle)**
    https://youtube.com/shorts/xCYO4WWeIrg
-   A short on the Awen symbol itself, tagged for symbolism and the Druids. Title confirmed by the desk's direct read of the YouTube page on 2026-10-27 — the hashtags are the whole title; maker and spoken content were not returned by that read.
+   Identified fully by the desk's browser pass on 2026-10-27: the animating breath of the universe, flowing from the unseen into the manifest through music, language, and silence; the three rays read as sky, land, and the soul bridging them — and, in another reading carried in the same Short, as truth, love, and wisdom. It closes on a forest image: "LOVE AND WISDOM" over the symbol. 44 likes and 3 comments at the viewing.
 
-9. **"What is Awen? The Awen" — Welsh Celtic Paganism**
+9. **"What is Awen? The Awen" — Mhara Starling (her second piece in this gift)**
    https://youtu.be/z8qH3MJc_TE
    A Welsh pagan telling that closes with Taliesin's own words, in the maker's rough translation: *"The Awen I sing, a connected river which flows. I know its might. I know its flow. Awen, Awen, Awen."* Points readers to Kristoffer Hughes' *The Book of Celtic Magic*. Practitioner grade, with a genuine old poem riding in it.
 
