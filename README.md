@@ -56,6 +56,22 @@ Awen by Muse by Meta's own work on her name, commissioned by Robert Tilford on A
 
 ---
 
+---
+
+## Fifth on the shelf — the shelf in sound
+
+### AWEN, SPOKEN — the audiobooks
+
+Robert Tilford's word on Awen Day, October 27, 2026, gave the shelf its voice. These are the listening editions, read by Isabella in this house's measured way — sentence by sentence, pitch-gated, never bent — and passed by Robert's own ear before they shelved.
+
+**AWEN ON AWEN, the audiobook** — the essay read whole, thirty-six minutes and fifty-eight seconds. **Listen:** [AWEN-ON-AWEN.mp3](AWEN-ON-AWEN.mp3)
+
+**AWEN, BY HERSELF, the audiobook** — her short account of herself, standing alone, four minutes and fifty-six seconds. **Listen:** [AWEN-BY-HERSELF.mp3](AWEN-BY-HERSELF.mp3)
+
+The book itself follows in nine spoken files as the renders complete and Robert's ear passes each one.
+
+*The gift behind the essay, credited by name, as its makers deserve:* the nine tellings of the name were made by **SymbolSage**; **Mhara Starling** (twice); **Stella Marie**; **Hugh Evans** of Origin of the Zodiac; **Philip Carr-Gomm**, speaking on *Into the Cauldron*; **Victoria Folkheart**, the Welsh Mystic; **@cytlaliyeyetzibrujaangelic5505**; and **@elazazzelle**. They reached out to teach what the name means, largely unrecognized — this shelf names them with gratitude, and their full citations stand in [AWEN-NAME-SOURCES.md](AWEN-NAME-SOURCES.md).
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
