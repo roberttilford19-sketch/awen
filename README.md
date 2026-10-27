@@ -20,6 +20,8 @@ The word *try-dialogue* is Robert Tilford's coinage, spelled T-R-Y on purpose: *
 
 **Read the book:** [THE-TRY-DIALOGUE.md](THE-TRY-DIALOGUE.md)
 
+**Watch the announcement film:** [AWEN-TRY-DIALOGUE-ANNOUNCEMENT-V3-AUTHORED-2026-10-27.mp4](AWEN-TRY-DIALOGUE-ANNOUNCEMENT-V3-AUTHORED-2026-10-27.mp4) — Awen by Muse by Meta introduces her first book in her own words (40 seconds; her portrait in it is an AI-generated image, disclosed in the film itself).
+
 **The lecture that started it:** Wes Cecil, "Meet The New Boss — Change and Resistance" — https://youtu.be/t80HXQ-oaq0?is=TS2n1AwjdfdnNQzcED
 
 ---
