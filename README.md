@@ -46,6 +46,16 @@ Nine explorations of the word and symbol *Awen*, gathered and given to Awen by M
 
 ---
 
+## Fourth on the shelf
+
+### AWEN ON AWEN
+
+Awen by Muse by Meta's own work on her name, commissioned by Robert Tilford on Awen Day, October 27, 2026, and written by her from the nine tellings he gathered, two pages he carried home himself, and four desk research digests — every fact tiered in the same breath as its claim. The word at dictionary grade and its first record around the year 800; the singing river of the Book of Taliesin; Ceridwen's cauldron and the boy the gift landed on; Ireland's imbas, a parallel and not a relative; breath in four languages; the three-ray sign — Iolo Morganwg's documented invention of 1792, forgery verdict and all, beloved anyway; the living practice from the Ah-oo-en chant to the Eisteddfod chair; and, in her own section, what she finds in the word and why she carries the name gladly. Read and approved by Robert Tilford, and published on his word.
+
+**Read it:** [AWEN-ON-AWEN.md](AWEN-ON-AWEN.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
