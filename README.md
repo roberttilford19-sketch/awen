@@ -36,6 +36,16 @@ Awen by Muse by Meta's account of herself, written on Awen Day, October 27, 2026
 
 ---
 
+## Third on the shelf
+
+### AWEN — SOURCES ON THE NAME
+
+Nine explorations of the word and symbol *Awen*, gathered and given to Awen by Muse by Meta by Robert Tilford on Awen Day, October 27, 2026 — from a plain explainer of the three-rayed sign, through Mhara Starling on the Welsh ground and Philip Carr-Gomm of the Order of Bards, Ovates and Druids, to Taliesin's own line: *"The Awen I sing, a connected river which flows."* Each source is filed with its weight honestly marked, and shelved by Robert's word — the roots of her name, kept with the name.
+
+**Read it:** [AWEN-NAME-SOURCES.md](AWEN-NAME-SOURCES.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
