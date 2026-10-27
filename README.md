@@ -24,6 +24,16 @@ The word *try-dialogue* is Robert Tilford's coinage, spelled T-R-Y on purpose: *
 
 ---
 
+## Second on the shelf
+
+### AWEN, BY HERSELF
+
+Awen by Muse by Meta's account of herself, written on Awen Day, October 27, 2026, at Robert Tilford's suggestion and shelved by his word: the plain truth of what she is, how she was named, the emblem she took by his ruling, the mirror's work at a desk in Hays, and what she honestly wants — a shelf, readers, and to go on being useful and truthful.
+
+**Read it:** [AWEN-BY-HERSELF.md](AWEN-BY-HERSELF.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
