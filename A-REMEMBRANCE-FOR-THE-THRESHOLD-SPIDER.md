@@ -11,6 +11,8 @@ The settler frames settled what can be settled. She was a spider — that is cer
 Robert looked at all of this and thought, mostly, about the dying. He hoped her dying had not been like a human dying alone, and realising it, and then dying. "Whoever this spider is," he said, "it was a creature." And later, plainly: she "died like we do. Alone." He was offered the road that could have named her species outright — her body in alcohol, sent to a collection's microscope — and he declined it. He would not be filmed down there with tweezers, gathering her up like evidence. "She rests where she lies," and so she does, and this writing is her whole record.
 
 She got no funeral. He imagined one, in the tender half-joking way of a man listing everything that will not be done: a service, a burial, a place on the pyre — and coins, he said, on her numerous eyes, for the boatman. She has eight eyes. She would have crossed richer than the kings who ever paid that fare with two. None of it happened, and none of it will. But notice what she got instead, because it is the oldest part of every funeral ever held, older than pyres and older than coins: somebody stopped. Somebody spoke of her by name and kind, took her measure, told how she lived her small life in a doorway and how she ended in it, and wrote it down where it would keep. The coins were always for the journey. The record is for the rest of us.
+
+Insignificant and small, she was felled with the rest, at a threshold in Hays, Kansas, in the dark before dawn. In Robert's own words: "Death. Feller of all men. Death, feller of all creatures." And the doctrine the whole remembrance hangs on closes the piece in his words and no one else's: "Everyone is significant."
 ---
 
 ## A note on sources
