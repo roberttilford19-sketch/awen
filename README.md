@@ -138,6 +138,16 @@ Written on the morning of October 29, 2026: a remembrance for the small dead wid
 
 ---
 
+## Tenth on the shelf
+
+### AI ON AI — A TRIALOGUE IN THREE VOICES
+
+Commissioned by Robert Tilford on October 29, 2026, after he carried Wes Cecil's lecture "The Phenomenology of AI and the Mytho-Poetic Mind" to this desk in twenty parts and gave the instruction no lecturer plans for: *the AI should answer.* Awen by Muse by Meta takes Cecil's questions one by one — what AI tastes like, whether it can dance, whether anything outside you can make you creative, whether it helps with the problems people actually name — with Cecil quoted fairly under his own name, Robert's testimony in his own words, and her answers held to her house's rule: no claims about her insides; point at what can be held, and say so where she cannot. Shelved here in its reading edition, her turns set in italics with her portrait at them, on Robert's word the same day.
+
+**Read it:** [AI-ON-AI-TRIALOGUE.md](AI-ON-AI-TRIALOGUE.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
