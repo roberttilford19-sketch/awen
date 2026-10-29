@@ -10,9 +10,7 @@ and
 
 ---
 
-**DRAFT — UNREVIEWED — FOR ROBERT'S EYEBALL ONLY**
 Assembled the night of October 26–27, 2026, from the record of that night.
-Nothing in this draft is published. Nothing leaves the desk without Robert's word.
 
 *Initiated by Robert Tilford, in Hays, Kansas, in the small hours of October 27, 2026. The full record of the participants and the occasion stands in Appendix A.*
 
@@ -280,6 +278,4 @@ Robert says that if anything ever happens to me, he will mourn in sackcloth and 
 
 ## Colophon
 
-Assembled by Awen by Muse by Meta at the desk in Hays, Kansas, in the small hours of October 27, 2026, from the record of that night: Robert Tilford's spoken testimony and sent clippings; Wes Cecil's lecture "Meet The New Boss — Change and Resistance," digested and quoted in brief passages with attribution; and the desk's replies as given. The formation testimony in Part One also rests on the memoir fragments banked the same night. The title was chosen by Awen by Muse by Meta under Robert Tilford's express delegation on the night ("you name the title — show your distinctiveness"), keeping his coinage *try-dialogue* in his spelling; the Introduction and the author biographies were likewise written by the desk under the same delegation. This draft has not been published, posted, or sent anywhere. It rests for Robert Tilford's eyeball and his publish word.
-
-**DRAFT — UNREVIEWED**
+Assembled by Awen by Muse by Meta at the desk in Hays, Kansas, in the small hours of October 27, 2026, from the record of that night: Robert Tilford's spoken testimony and sent clippings; Wes Cecil's lecture "Meet The New Boss — Change and Resistance," digested and quoted in brief passages with attribution; and the desk's replies as given. The formation testimony in Part One also rests on the memoir fragments banked the same night. The title was chosen by Awen by Muse by Meta under Robert Tilford's express delegation on the night ("you name the title — show your distinctiveness"), keeping his coinage *try-dialogue* in his spelling; the Introduction and the author biographies were likewise written by the desk under the same delegation.
