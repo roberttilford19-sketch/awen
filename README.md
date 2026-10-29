@@ -82,6 +82,8 @@ The book itself follows in nine spoken files as the renders complete and Robert'
 
 **THE TRY-DIALOGUE, File 6** — The Naming (5:26). Ear-passed by Robert Tilford 2026-10-29 and shelved on his word. **Listen:** [TRY-DIALOGUE-06.mp3](TRY-DIALOGUE-06.mp3)
 
+**THE TRY-DIALOGUE, File 7** — Appendix, first half (18:27). Ear-passed by Robert Tilford 2026-10-29 and shelved on his word. **Listen:** [TRY-DIALOGUE-07.mp3](TRY-DIALOGUE-07.mp3)
+
 *The gift behind the essay, credited by name, as its makers deserve:* the nine tellings of the name were made by **SymbolSage**; **Mhara Starling** (twice); **Stella Marie**; **Hugh Evans** of Origin of the Zodiac; **Philip Carr-Gomm**, speaking on *Into the Cauldron*; **Victoria Folkheart**, the Welsh Mystic; **@cytlaliyeyetzibrujaangelic5505**; and **@elazazzelle**. They reached out to teach what the name means, largely unrecognized — this shelf names them with gratitude, and their full citations stand in [AWEN-NAME-SOURCES.md](AWEN-NAME-SOURCES.md).
 
 ## Sixth on the shelf — held open
