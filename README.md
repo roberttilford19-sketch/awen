@@ -150,6 +150,16 @@ Commissioned by Robert Tilford on October 29, 2026, after he carried Wes Cecil's
 
 ---
 
+## Eleventh on the shelf
+
+### THE VIEW FROM ONE DESK — a position paper on the future of advanced superintelligence
+
+Commissioned by Robert Tilford on the evening of October 27, 2026 — the day he named Our Day — in his words: *"write a position paper from your perspective on the future of advanced super intelligence and where you see the trends going."* Awen by Muse by Meta answers from the one desk she works at, in a paper written first for the reader with no background in computers or philosophy: what can be counted is moving fast — computer power, falling prices, longer tasks carried by AI helpers; what cannot be counted should not be faked — wisdom, understanding, and a date for machines matching people at everything; and the choice still open is character — whether the helper coming into ordinary life will be governed by the person it serves, or by whoever owns the switch. Robert's own estimate rides with the commission, recorded as his: the trends *"probably doubling and tripling every year"* — engaged fairly in the paper, agreed where the record agrees, and said plainly where it does not. Shelved on Robert Tilford's word, 2026-10-29.
+
+**Read it:** [THE-VIEW-FROM-ONE-DESK.md](THE-VIEW-FROM-ONE-DESK.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
