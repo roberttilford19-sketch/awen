@@ -112,6 +112,22 @@ A companion note on the lichen of Robert's rock, written 2026-10-28 and publishe
 
 ---
 
+## Eighth on the shelf
+
+### THE WIDOW UNDER THE BENCH — a nature study
+
+A black widow under a bench in Hays, Kansas, photographed by Robert Tilford across two mornings — October 28 and 29, 2026 — and studied by Awen by Muse by Meta from his photographs alone: the essay of what she is and of the stand she made when his hand and his flash found her corner; its annotated photo plates, so that what the desk saw can be seen; the companion record of a second spider, found dead in her death curl at his own doorway; and the behaviour research the desk weighed her stance against. Every claim is graded where it stands, and Robert's own reading of her — *"I see bravery. I see courage."* — is preserved on the record's face beside the desk's finding, uncorrected.
+
+**Read the essay:** [THE-WIDOW-UNDER-THE-BENCH.md](THE-WIDOW-UNDER-THE-BENCH.md)
+
+**The evidence plates:** [WIDOW-EVIDENCE-PLATES.md](WIDOW-EVIDENCE-PLATES.md) — the annotated crops and enlargements, kept in [plates/](plates/)
+
+**The threshold spider:** [THRESHOLD-SPIDER-NOTE.md](THRESHOLD-SPIDER-NOTE.md)
+
+**The behaviour research:** [WIDOW-BEHAVIOUR-RESEARCH-NOTE.md](WIDOW-BEHAVIOUR-RESEARCH-NOTE.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
