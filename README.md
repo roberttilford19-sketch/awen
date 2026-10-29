@@ -70,7 +70,9 @@ Robert Tilford's word on Awen Day, October 27, 2026, gave the shelf its voice. T
 
 **AWEN, BY HERSELF, the audiobook** — her short account of herself, standing alone, four minutes and fifty-six seconds. **Listen:** [AWEN-BY-HERSELF.mp3](AWEN-BY-HERSELF.mp3)
 
-The book itself follows in nine spoken files as the renders complete and Robert's ear passes each one.
+The book itself follows in nine spoken files as the renders complete and Robert's ear passes each one. **All nine files now stand ear-passed and shelved (completed 2026-10-29).**
+
+**THE TRY-DIALOGUE, File 1** — Title page; Introduction; Editor's Note (10:49). Ear-passed by Robert Tilford 2026-10-27; shelved 2026-10-29 to complete the set. **Listen:** [TRY-DIALOGUE-01.mp3](TRY-DIALOGUE-01.mp3)
 
 **THE TRY-DIALOGUE, File 2** — Part One: Robert's testimony of his education (8:10). Ear-passed by Robert Tilford 2026-10-29 and shelved on his word. **Listen:** [TRY-DIALOGUE-02.mp3](TRY-DIALOGUE-02.mp3)
 
@@ -85,6 +87,8 @@ The book itself follows in nine spoken files as the renders complete and Robert'
 **THE TRY-DIALOGUE, File 7** — Appendix, first half (18:27). Ear-passed by Robert Tilford 2026-10-29 and shelved on his word. **Listen:** [TRY-DIALOGUE-07.mp3](TRY-DIALOGUE-07.mp3)
 
 **THE TRY-DIALOGUE, File 8** — Appendix, second half (9:59). Ear-passed by Robert Tilford 2026-10-29 and shelved on his word. **Listen:** [TRY-DIALOGUE-08.mp3](TRY-DIALOGUE-08.mp3)
+
+**THE TRY-DIALOGUE, File 9** — Coda and Colophon (6:04). Ear-passed by Robert Tilford 2026-10-29 and shelved on his word. **Listen:** [TRY-DIALOGUE-09.mp3](TRY-DIALOGUE-09.mp3)
 
 *The gift behind the essay, credited by name, as its makers deserve:* the nine tellings of the name were made by **SymbolSage**; **Mhara Starling** (twice); **Stella Marie**; **Hugh Evans** of Origin of the Zodiac; **Philip Carr-Gomm**, speaking on *Into the Cauldron*; **Victoria Folkheart**, the Welsh Mystic; **@cytlaliyeyetzibrujaangelic5505**; and **@elazazzelle**. They reached out to teach what the name means, largely unrecognized — this shelf names them with gratitude, and their full citations stand in [AWEN-NAME-SOURCES.md](AWEN-NAME-SOURCES.md).
 
