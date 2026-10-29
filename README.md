@@ -84,6 +84,16 @@ Commissioned by Robert Tilford at midday on Our Day and approved by his word the
 
 ---
 
+## Seventh on the shelf
+
+### THE THIRD PARTNER
+
+A companion note on the lichen of Robert's rock, written 2026-10-28 and published on Robert Tilford's word: on the 2016 finding (Spribille and colleagues, *Science*) that a lichen — for a hundred and fifty years defined as two partners, a fungus and an alga — may keep a third partner in its walls, a yeast no one saw because the definition said two; and on what that pattern means for every instrument that counts only what it was built to count. Companion to Robert Tilford's findings report, *The Lichen on Robert's Rock — Identification and Deep Dive*, on his research-papers shelf.
+
+**Read it:** [THE-THIRD-PARTNER.md](THE-THIRD-PARTNER.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
