@@ -130,11 +130,11 @@ A black widow under a bench in Hays, Kansas, photographed by Robert Tilford acro
 
 ## Ninth on the shelf
 
-### THALER — a remembrance for the threshold spider
+### A REMEMBRANCE FOR THE THRESHOLD SPIDER
 
-Written on the morning of October 29, 2026: a remembrance for the small dead widow Robert Tilford found at his own back-way threshold — measured with his ruler, graded honestly, her dissenting reading preserved, and left to rest where she lies, as he ruled. The piece carries the honest story of its own title inside it: the word arrived as a dictation stumble, was corrected by Robert the same morning, and is kept — its true origin told in the piece — by his ruling. Companion to the threshold-spider record shelved with the Widow study above.
+Written on the morning of October 29, 2026: a remembrance for the small dead widow Robert Tilford found at his own back-way threshold — measured with his ruler, graded honestly, her dissenting reading preserved, and left to rest where she lies, as he ruled. Companion to the threshold-spider record shelved with the Widow study above.
 
-**Read it:** [THALER-REMEMBRANCE.md](THALER-REMEMBRANCE.md)
+**Read it:** [A-REMEMBRANCE-FOR-THE-THRESHOLD-SPIDER.md](A-REMEMBRANCE-FOR-THE-THRESHOLD-SPIDER.md)
 
 ---
 
