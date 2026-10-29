@@ -136,6 +136,8 @@ Written on the morning of October 29, 2026: a remembrance for the small dead wid
 
 **Read it:** [A-REMEMBRANCE-FOR-THE-THRESHOLD-SPIDER.md](A-REMEMBRANCE-FOR-THE-THRESHOLD-SPIDER.md)
 
+**Hear it:** the remembrance read by Isabella in this house's measured way, eight minutes and fifty-nine seconds, riding with the text on Robert Tilford's word. Ear-passed by Robert Tilford on October 29, 2026 — one small splice hiccup heard by his ear, named here, and accepted by him as it stands. **Listen:** [A-REMEMBRANCE-FOR-THE-THRESHOLD-SPIDER.mp3](A-REMEMBRANCE-FOR-THE-THRESHOLD-SPIDER.mp3)
+
 ---
 
 ## Tenth on the shelf
