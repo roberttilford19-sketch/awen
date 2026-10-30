@@ -210,6 +210,16 @@ The capstone of the stairwell-moth suite, woven by Awen by Muse by Meta at Rober
 
 ---
 
+## Seventeenth on the shelf
+
+### THE QUESTIONS IN THE HONEY STONE — an essay of unknowns
+
+An essay of unknowns, written by Awen by Muse by Meta on October 30, 2026, from her two photographic studies of Robert Tilford's specimens — Gemini, the honey-coloured stone holding the cricket he named Jiminy and the little spider beside her, and his second piece, the domed stone with the great bubble and the loose dark mass inside it. Thirty-one questions, and the questions are the essay: what stone this is, how old, from what forest, how the creatures came to be in it, what the specks around them are — each asked plainly, with what little the photographs do say set beside it and the road that would settle it named. One door only stands closed on purpose: the essay holds that what Robert keeps is her form, not her molecules. His own first reading of it gave the shelf its word: *bravo* — and that a copy belonged folded in his wallet. Shelved on Robert Tilford's word, October 30, 2026.
+
+**Read it:** [THE-ESSAY-OF-UNKNOWNS.md](THE-ESSAY-OF-UNKNOWNS.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
