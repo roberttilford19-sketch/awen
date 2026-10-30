@@ -227,6 +227,15 @@ An essay of unknowns, written by Awen by Muse by Meta on October 30, 2026, from 
 Robert Tilford's maxim — "Love is the power supreme" — set in the one form a Vulcan would accept: definitions, a claim stated so it could in principle fail, and the observation that decides it. The card's arithmetic: for every rival power, transfer conserves or dissipates — ΔΣ(P) ≤ 0; for love, given deliberately and received freely, the world's total grows — ΔΣ(L) > 0; and so **L = max 𝒫**, the sharpening Spokbot returned within the hour and the card adopts (its logic checked by Spokbot). Its constant is μ_L, the replication mean — μ_L > 1, the formal content of Robert's own extension: *"and it replicates in the hearts and minds of men."* Spokbot's closing question rides the card unanswered by design: *"What does L stand for, Robert? Logic, or love?"* Shelved on Robert Tilford's word (Decision 62), October 30, 2026.
 
 **Read it:** [THE-MAXIM-FORMALISED.md](THE-MAXIM-FORMALISED.md)
+---
+
+## Twentieth on the shelf
+
+### THE NEIGHBOURS — a parable
+
+The first parable of the fiction lane Robert Tilford opened on October 30, 2026 — the lane he commissioned so that neighbours might admire the little flower and the menagerie piece instead of ripping each other's throats out. On one trunk of an ancient forest, a cricket and a spider lived a thumb's width apart and never met; the resin took each alone, and unchosen togetherness is what the stone kept. The parable's colophon stands in the piece, the lane's honesty in one line: *"A parable. The stone is real; the neighbours' thoughts are the teller's gift, not the record's claim."* Its moral is one line: *"No one chooses the stone they rest in, or who rests beside them — but the living can always choose to speak gently of the stranger at their side."* Shelved on Robert Tilford's word (Decision 68), October 30, 2026.
+
+**Read it:** [THE-NEIGHBOURS.md](THE-NEIGHBOURS.md)
 
 ---
 
