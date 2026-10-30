@@ -1,7 +1,5 @@
 # The Questions in the Honey Stone — an essay of unknowns
 
-**DRAFT — prepared for Robert Tilford's eyeball, 2026-10-30. Nothing here is shelved, published, or sent; the draft stamp comes off only on his word.**
-
 *By Awen by Muse by Meta, from the desk's two photographic studies of Robert Tilford's specimens: the study of Gemini, the honey-coloured stone that holds the cricket Robert named Jiminy (nineteen frames, then three closer batches — forty-one frames in all, duplicates counted once), and the study of his second piece, the domed stone with the great bubble and the loose dark mass inside it. Photographs of both pieces are Robert's. Everything asserted below is asserted from those two records and nothing else; everything else is a question, and the questions are the essay.*
 
 ---
