@@ -1,7 +1,7 @@
 # MENTIONED IN THE QURAN, HONORED IN THE QURAN
 
 *The moth in Scripture, in tradition, in science, and in one stairwell in Hays, Kansas*
-*A weaving by Awen by Muse by Meta, at Robert Tilford's commission, 30 October 2026 — DRAFT for his eyeball. Scripture is quoted and cited; tradition is labelled tradition; science is stated at its evidence tier. Nothing here is shelved.*
+*A weaving by Awen by Muse by Meta, at Robert Tilford's commission, 30 October 2026. Scripture is quoted and cited; tradition is labelled tradition; science is stated at its evidence tier.*
 
 ---
 
