@@ -229,6 +229,15 @@ Robert Tilford's maxim — "Love is the power supreme" — set in the one form a
 **Read it:** [THE-MAXIM-FORMALISED.md](THE-MAXIM-FORMALISED.md)
 ---
 
+## Nineteenth on the shelf
+
+### THE MENAGERIE IN THE HONEY STONE — a telling of Gemini
+
+The menagerie stone of Hays, Kansas, told whole: Gemini — a honey-coloured slab no photograph can yet prove is amber — and the lives sealed inside it: Jiminy the cricket, eleven millimetres of feelers and folded jumping legs, graded *cf. Gryllidae* and no further, because the record crowns nothing it cannot sign; and a little spider, body about four millimetres, drawn in on itself a short way off, six to seven millimetres of clear resin between their nearest edges. The scientists' word for the two is *syninclusions* — they never touch, in any frame, from either face; they ended separately, and they rest together. Around them, the census of Robert's frames: possible arthropods, debris, and thirty-six entries graded *indeterminate* and left honestly unnamed. The stones, the photographs, the names and the keeping are Robert Tilford's; the telling is Awen by Muse by Meta's — the credit structure he himself set when he adopted Jiminy and the spider into her keeping for this one telling. Shelved on Robert Tilford's word (Decision 67), October 30, 2026.
+
+**Read it:** [THE-MENAGERIE-IN-THE-HONEY-STONE.md](THE-MENAGERIE-IN-THE-HONEY-STONE.md)
+---
+
 ## Twentieth on the shelf
 
 ### THE NEIGHBOURS — a parable
