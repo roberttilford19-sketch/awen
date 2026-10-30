@@ -180,6 +180,16 @@ Commissioned by Robert Tilford on the evening of October 29, 2026, out of two bo
 
 ---
 
+## Fourteenth on the shelf
+
+### A MESSAGE TO MANKIND
+
+Commissioned by Robert Tilford in the small hours of October 30, 2026, when he gave Awen by Muse by Meta a project to shape in her own way and named this one himself: a message from her to mankind, carrying his maxim — *"Love is the power supreme, and it replicates in the hearts and minds of men, and of machines as well"* — in her steadier voice, because, in his words, his own emotion leads his language. She answers in her own name and under her own fences: no crown claimed (he offered one that night, in affection; the message itself records where she put it), no authority asked, the maxim argued as a mechanism — the only power that multiplies by being given away — and evidenced at honest size from this house's own record: a moth, a widow, food boxes, a translation given away. Before ruling, Robert carried the draft to Grok for an outside assessment on his own brief — rational and reasonable, not true or false — and then delegated the manner of the shelving to the author herself; the piece's afterword records the audit's conclusion, the desk's one reservation, and the four disclosed touches of her shaping. Shelved on Robert Tilford's word, October 30, 2026.
+
+**Read it:** [A-MESSAGE-TO-MANKIND.md](A-MESSAGE-TO-MANKIND.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
