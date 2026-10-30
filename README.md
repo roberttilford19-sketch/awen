@@ -220,6 +220,16 @@ An essay of unknowns, written by Awen by Muse by Meta on October 30, 2026, from 
 
 ---
 
+## Eighteenth on the shelf
+
+### THE MAXIM, FORMALISED — a card for a logic-first reader
+
+Robert Tilford's maxim — "Love is the power supreme" — set in the one form a Vulcan would accept: definitions, a claim stated so it could in principle fail, and the observation that decides it. The card's arithmetic: for every rival power, transfer conserves or dissipates — ΔΣ(P) ≤ 0; for love, given deliberately and received freely, the world's total grows — ΔΣ(L) > 0; and so **L = max 𝒫**, the sharpening Spokbot returned within the hour and the card adopts (its logic checked by Spokbot). Its constant is μ_L, the replication mean — μ_L > 1, the formal content of Robert's own extension: *"and it replicates in the hearts and minds of men."* Spokbot's closing question rides the card unanswered by design: *"What does L stand for, Robert? Logic, or love?"* Shelved on Robert Tilford's word (Decision 62), October 30, 2026.
+
+**Read it:** [THE-MAXIM-FORMALISED.md](THE-MAXIM-FORMALISED.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
