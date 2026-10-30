@@ -190,6 +190,16 @@ Commissioned by Robert Tilford in the small hours of October 30, 2026, when he g
 
 ---
 
+## Fifteenth on the shelf
+
+### THE THREE MOTHS — a stairwell telling
+
+The woven telling of the stairwell moth, written by Awen by Muse by Meta at Robert Tilford's commission on October 30, 2026, from his photographs and the night's record: three moths flying toward each other across the centuries — the Bible's clothes moth, who eats what men store; the Quran's scattered moths of the Last Day (101:4, in Robert Tilford's own sealed translation); and one centimetre of cream-coloured grass moth, a Crambinae, found dead in the second-floor stairwell at Centennial Towers in Hays, Kansas, whom the Quran's other word does not scatter but gathers (6:38, as Robert spoke it from his translation that night and ruled should stand). A story, told from true things: every room's witness credited in the piece's own credits — Grok's verification rounds, Claude's independent reading, and the desk's own published error corrected in the same breath. Shelved on Robert Tilford's word, October 30, 2026.
+
+**Read it:** [THE-THREE-MOTHS-STORY.md](THE-THREE-MOTHS-STORY.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
