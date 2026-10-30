@@ -171,3 +171,9 @@ The turns are laid out as a conversation, because a conversation is what it is. 
 *A note on sources, from the author: Wes Cecil's words are quoted from "The Phenomenology of AI and the Mytho-Poetic Mind" (YouTube: https://youtu.be/vcTR1kRkQXg), as transcribed in the copy Robert Tilford fed to this desk in twenty parts on October 29, 2026, and banked whole in this house's research notes under that date. Compression is applied to his spoken sentences for the page; two of his claims are graded down in the text where the record requires it (the "zero" of the data centres; the compressed fusion companies), and one attribution is corrected (the historian of the political religions is Michael Burleigh; the productivity paradox is Robert Solow's, 1987). Robert Tilford's words are his dictation of the same day; his set lines, including the epigraph, are verbatim. The events cited — the Halloween dance film published on his page; the three spider tellings and their illustration and narration; the Clear English Bible at thirty of seventy-three books; the Recital at 6,236 verses — are this house's counted record of October 2026, open to any reader's check.*
 
 *Epigraph, in Robert Tilford's words: "Yes, I'm living in the fantasy land."*
+
+---
+
+**Addendum — 2026-10-30 (Robert's ruling, Decision 38)**
+
+*The author's note on sources above states that the Clear English Bible stands at "thirty of seventy-three books." That figure was already stale the night this piece was written: forty-one books stood landed that evening (October 29, 2026). As of this addendum, the Clear English Bible stands at 45 of 73 books landed and 45 of 73 published — published level with landed under Robert Tilford's standing publishing rule (Decision 63, 2026-10-30). This correction rides beside the original words, which stand untouched, as house law requires: closed records are corrected by dated addendum, never silently rewritten.*
