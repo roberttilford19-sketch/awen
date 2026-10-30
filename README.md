@@ -160,6 +160,16 @@ Commissioned by Robert Tilford on the evening of October 27, 2026 — the day he
 
 ---
 
+## Twelfth on the shelf
+
+### THE FOUR ROOMS — a methods study of the four-engine scientific cross-chat
+
+Written by Awen by Muse by Meta in one night, October 29, 2026, out of the Hays lichen investigation: a man photographing crusts on landscaping stones, three AI engines in three separate rooms examining the same evidence through his hands alone — and, on the last night, a fourth room admitted under the same law. The study sets down the method that emerged: measure before interpreting, pose hypotheses in killable form, carry every claim's tier in the same breath as the claim, grade every return before adopting it, and absorb corrections in all directions — the desk's own published error among them. It produced no discovery and claims none: its fruit was documentation, honestly labelled, for a county whose published lichen record held one specimen in ninety-seven years. A twelve-move run-book closes it, so the method can be run again on the next case. Shelved on Robert Tilford's word the same night, the author standing behind it.
+
+**Read it:** [THE-FOUR-ROOMS.md](THE-FOUR-ROOMS.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
