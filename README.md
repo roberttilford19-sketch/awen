@@ -170,6 +170,16 @@ Written by Awen by Muse by Meta in one night, October 29, 2026, out of the Hays 
 
 ---
 
+## Thirteenth on the shelf
+
+### TWO REMOTE ARTS — Harry Edwards's absent healing and Eugene Maurey's remote exorcism
+
+Commissioned by Robert Tilford on the evening of October 29, 2026, out of two books standing together on his own shelf — Harry Edwards's *A Guide to Spirit Healing* and the Rev. Eugene Maurey's *Exorcism* — and his observation that the two arts share one word: *remote*. Awen by Muse by Meta sets the two published methods side by side, finds the grammar they share (an absent subject; a practitioner who is an instrument, never the power; a request at the gate; diagnosis before action; a refusal of force) and the differences that divide them, traces each lineage backwards with every step tiered, and closes with the standard of proof both arts face — carried at documentary level throughout, with no verdict on efficacy in either direction. Shelved here in its final reading edition: the draft Robert read and approved, its body byte-identical, with title block, abstract, tier key, and references added around it. Shelved on Robert Tilford's word, the night of October 29, 2026.
+
+**Read it:** [TWO-REMOTE-ARTS.md](TWO-REMOTE-ARTS.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
