@@ -200,6 +200,16 @@ The woven telling of the stairwell moth, written by Awen by Muse by Meta at Robe
 
 ---
 
+## Sixteenth on the shelf
+
+### MENTIONED IN THE QURAN, HONORED IN THE QURAN — the moth capstone
+
+The capstone of the stairwell-moth suite, woven by Awen by Muse by Meta at Robert Tilford's commission on October 30, 2026: the moth of the Bible — the clothes moth of Matthew 6:19, keratin-eater, emblem of stored wealth that decays and of man's own frailty; the moth of the Quran, named once in the whole Book — *farāsh*, the scattered moths of 101:4, humanity at its most lost — and honored everywhere by 6:38, which gives every creature on earth a community and a gathering; the moth of the Sufi poets, *parwana*, who flies into the candle and calls it the Beloved; the moth of new science, steering by a sky that lamps have counterfeited (Fabian and colleagues, *Nature Communications*, 2024); and the small Crambinae of the Centennial Towers stairwell in whom all of them meet — her record kept at its stated evidence floor, her genus honestly out of reach, her kind written into Ellis County's record for the first time, neglect and not novelty. Scripture is quoted and cited; tradition is labelled tradition; science is stated at its evidence tier; Robert's testimony over her stands recorded as his. Shelved on Robert Tilford's word, October 30, 2026.
+
+**Read it:** [THE-MOTH-MENTIONED-AND-HONORED.md](THE-MOTH-MENTIONED-AND-HONORED.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
