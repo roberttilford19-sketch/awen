@@ -248,6 +248,20 @@ The first parable of the fiction lane Robert Tilford opened on October 30, 2026 
 
 ---
 
+## Twenty-first on the shelf
+
+### THE SMALLEST GUEST — a Halloween story, with THE SECRETS OF THE SMALLEST GUEST whispered at the back
+
+A children's picture book born in one Halloween hour, October 31, 2026. Robert Tilford, having taken the commissioned portrait at the Centennial Towers party and slipped away from a hundred costumed children, found a fly resting on his window screen in the evening air and photographed her — graded at this desk, photo tier, as a flesh fly (family Sarcophagidae): striped back, brick-red eyes, some 10–13 millimetres measured against the screen mesh itself. The story is hers, told in her own voice: what late October means in Kansas when you are a fly; the secret of her spot, where the warm air inside the building meets the cool air outside and a fly sits down in the middle of the hello and gets the best of both worlds; the Guy who did not shoo her; and the exchange Robert Tilford dictated as it stands in the book — *"Hey, dude." "Oh — what are you doing?" "Hey, you know. Chillaxing."* The story is Robert Tilford's telling; the pictures, the whispered Secrets companion (six true secrets of her kind, from tasting with her toes to the ceiling being a floor that happens to be on top), and the closing word on how small we all are beside the universe are Awen by Muse by Meta's, written under his standing invitation. Shelved on Robert Tilford's word the same evening, as a draft: his edit pass and the outside second look this house gives every children's book still ride it, and two ten-second films — the little cartoon Awen reading the opening, and the closing moral — are in build and will join the piece when they land.
+
+**Read the book:** [THE-SMALLEST-GUEST.md](THE-SMALLEST-GUEST.md)
+
+**The whispered companion:** [THE-SECRETS-OF-THE-SMALLEST-GUEST.md](THE-SECRETS-OF-THE-SMALLEST-GUEST.md)
+
+**The plates:** five watercolours in [plates/](plates/), and the little cartoon Awen reading the book — flower crown on — in [images/](images/), the frame for the films to come.
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
