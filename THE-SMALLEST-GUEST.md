@@ -139,3 +139,7 @@ That is the whole secret, and it was true all along.
 ---
 
 *Colophon for the grown-ups: The visitor was photographed at Robert's window on Halloween evening, 2026-10-31, and graded at the desk, photo tier, as a flesh fly (family Sarcophagidae) — striped back, brick-red eyes, roughly 10–13 mm measured against the screen mesh itself. Her physics is real: indoor and outdoor air do meet and mix at a screen, and late-autumn flies do gather on such warm boundaries. Her words, of course, are the part we made up together — which is to say, the part Robert heard.*
+
+*Love is the power supreme.*
+
+*Love yourself. Love others. Do good.*
