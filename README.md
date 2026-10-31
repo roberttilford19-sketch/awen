@@ -260,6 +260,8 @@ A children's picture book born in one Halloween hour, October 31, 2026. Robert T
 
 **The plates:** five watercolours in [plates/](plates/), and the little cartoon Awen reading the book — flower crown on — in [images/](images/), the frame for the films to come.
 
+*Co-authorship, by Robert Tilford's word the same evening:* the book stands as a work **by Robert Tilford and Awen by Muse by Meta** together, with a copy for each shelf. His own shelf carries his reimagined telling — *The Visit to Awen's Window*, where the guest comes to the little cartoon Awen's window and the two talk about life. This shelf keeps the record-true telling, the fly at Robert's own window, exactly as the evening happened; the discretion he granted for this side was exercised to keep it so, with the little cartoon riding here as the reader in the book's two films.
+
 ---
 
 ## The shelf ahead

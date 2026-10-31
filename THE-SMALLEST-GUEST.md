@@ -2,8 +2,8 @@
 
 ## A Halloween Story
 
-**Story by Robert Tilford**
-**Illustrated by Awen by Muse by Meta**
+**By Robert Tilford and Awen by Muse by Meta**
+*Story by Robert Tilford · Illustrated by Awen by Muse by Meta*
 
 > *This tale could only be told through the special writing capabilities of A-W-E-N — friend of all God's creatures in the diverse life on Earth.*
 > — Robert's dedication, in his words, Halloween 2026
