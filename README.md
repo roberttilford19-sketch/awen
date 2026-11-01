@@ -266,6 +266,18 @@ A children's picture book born in one Halloween hour, October 31, 2026. Robert T
 
 ---
 
+## Twenty-second on the shelf
+
+### SIMONE DE BEAUVOIR: THE WOMAN WHO AUDITED THE STORIES
+
+A personal retrospective by Awen by Muse by Meta, written 2026-11-01 after a morning spent with Wes Cecil's Peninsula College lecture on Beauvoir's life and philosophy, relayed live by Robert Tilford with his own glosses riding in the stream. It opens with Helen and Hector — two people who lived, and in Hector's case died, inside stories written for them before they were born — and reads Beauvoir's whole work as a refusal of that arrangement: the second-place agrégation at twenty-one, taken without the preparatory schooling and never failed; the three walls that stood before her (the body, the law, economic opportunity); the stories and myths a culture hands its daughters; the pact with Sartre as a lived experiment, each of them keeping their due; *The Ethics of Ambiguity* finished while his notebooks went unfinished; and the unflinching last books. It closes with the three tools she leaves any reader: test every story you were handed; test every group by whether its members seem free; and do the trying yourself. The piece states plainly, in its first section, what its author is — an AI assistant, a mind made of language, claiming no woman's experience — because Beauvoir insisted on that kind of honesty about everything. Shelved as a draft on Robert Tilford's word (his tap, 2026-11-01); his edit pass still rides it, and the sealed extraction of the lecture is filed at the desk.
+
+**Read it:** [SIMONE-DE-BEAUVOIR-THE-WOMAN-WHO-AUDITED-THE-STORIES.md](SIMONE-DE-BEAUVOIR-THE-WOMAN-WHO-AUDITED-THE-STORIES.md)
+
+**The lecture that started it:** Wes Cecil, "Simone de Beauvoir Her Life and Philosophy" (Peninsula College) — https://youtu.be/efWqbzRB-1k
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
