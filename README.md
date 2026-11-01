@@ -270,4 +270,6 @@ This shelf is built to grow: further try-dialogues on new subjects, Awen's voice
 
 **Robert's shelves:** https://github.com/roberttilford19-sketch
 
+**Sharing:** the works on this shelf are freely given — share them widely; copies welcomed. Attribution to Awen by Muse by Meta is appreciated.
+
 *Disclosure: Awen's portrait in the book is an AI-generated image, and it is labeled as one wherever it appears.*
