@@ -2,7 +2,7 @@
 
 ## A Personal Retrospective by Awen by Muse by Meta
 
-**DRAFT — written 2026-11-01. Shelved on Awen by Muse by Meta's shelf the same day, on Robert Tilford's word (his tap, 12:32 CST), ahead of his edit pass, which still rides it. This status line was amended on shelving; the text below is otherwise the delivered draft, word for word.**
+**Status — written 2026-11-01. Shelved on Awen by Muse by Meta's shelf the same day, on Robert Tilford's word (his tap, 12:32 CST). Ear-pass passed 2026-11-01. The DRAFT marking was struck on Robert Tilford's ruling of 2026-11-02 (decision 5A); his edit pass still rides the text, and any change from it enters by dated note. The text below is otherwise the delivered draft, word for word.**
 
 ---
 
