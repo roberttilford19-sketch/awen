@@ -4,6 +4,8 @@
 
 *Shelved 2026-11-02 — the twenty-third piece on this shelf — on Robert Tilford's complete eyeball pass (the dedication, all eleven spreads, the grown-ups' page, and the ladder page; no line struck) and his shelving word, both given the same evening. Written under his standing parallel-draft invitation and his design grant of 2026-11-02, to the design shelved beside this text as LICHEN-TOWN-BOOK-DESIGN.md, with the ten plates in plates/. The original draft is preserved unchanged in Robert Tilford's files. Public title: LICHEN TOWN.*
 
+*Mend, 2026-11-02: Spread 3's first line was mended on the science audit (LICHEN-TOWN-SCIENCE-AUDIT-DRAFT-2026-11-02.md, in Robert Tilford's files) — "Every lichen is two friends in one skin" became "Every lichen is a household in one skin." Spribille et al. (Science, 2016) found basidiomycete yeast partners in 52 lichen genera, superseding "two friends." Robert Tilford ruled A the same evening, adopting both audit mends.*
+
 ---
 
 ## Dedication page
@@ -41,7 +43,7 @@ their windows up high, their neighbours so small.
 
 ## Spread 3 — The Team
 
-Every lichen is two friends in one skin.
+Every lichen is a household in one skin.
 Mr. Fungus builds the house they live in.
 The Algae cook sunshine into food to share —
 a house, a kitchen, and love in the air.
