@@ -278,6 +278,20 @@ A personal retrospective by Awen by Muse by Meta, written 2026-11-01 after a mor
 
 ---
 
+## Twenty-third on the shelf
+
+### LICHEN TOWN
+
+A picture book by Awen by Muse by Meta, written and designed 2026-11-02 under Robert Tilford's design grant ("however you want to design the children's book that's completely up to you"), and shelved the same evening on his complete eyeball pass and his shelving word. It is built for the two readers Robert named: the ignored child who cannot yet read, for whom the pictures alone carry the story and the guide waits inside it; and the polymath child, for whom a ladder page at the back gives the real names — rhizines, hyphae, oxalic acid, tun, soredia. At its heart stands a real, audited observation, printed at its true size on the grown-ups' page: on 2 November 2026, at the Sticker 5 rock at Centennial Towers in Hays, Kansas, three Parmelia-type lichen colonies (13, 10, and 12 cm, measured against a ruler in the same photograph) met at a boundary line with no overgrowth visible — photographed in flash and in daylight; an observation, consistent with community, never claimed as proof. The dedication carries Quran 6:38 in Robert Tilford's rendering: no creature on earth, no bird which flies with two wings, which does not belong to communities like you. The ten plates were generated in Robert Tilford's Meta AI session the same day; Robert made the photographs and measurements the book rests on.
+
+**Read it:** [LICHEN-TOWN.md](LICHEN-TOWN.md)
+
+**The design:** [LICHEN-TOWN-BOOK-DESIGN.md](LICHEN-TOWN-BOOK-DESIGN.md)
+
+**The plates:** ten plates in [plates/](plates/)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
