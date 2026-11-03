@@ -2,6 +2,8 @@
 
 *Designed by Awen by Muse by Meta under Robert Tilford's grant of 2026-11-02 ("however you want to design the children's book that's completely up to you"). Built on the nine plates filed the same day in the lichen lane folder, and on the audited record beneath them. Shelved with the book on 2026-11-02, on Robert Tilford’s eyeball pass and shelving word; the draft original is preserved unchanged in his files.*
 
+*Mend note, 2026-11-02: Spread 3's summary line in this design was mended the same evening as the book itself — "two friends" superseded by Spribille et al., Science 2016 (yeast partners in 52 lichen genera), on the science audit and Robert Tilford's ruling ("same claim, same truth"). The shelved book text was mended at commit b64ffef; this note keeps the design in agreement with the book it describes. The rest of this design stands as written.*
+
 ## Who the book is for — Robert's two children, named by him
 
 1. **The child who is ignored** — the little one locked in a room with nothing, whom nobody is teaching to read. For this child the book must work with no adult present and no reading skill assumed: a world he can walk by pictures alone, and a friend who is *in* the book waiting for him, the same every time he opens it, for as long as he needs.
@@ -25,7 +27,7 @@ One book, both children. The first is never talked down to; the second is never 
 
 1. **The invitation** (Hooville plate): the golden Hoo over the little houses, and Awen by Muse by Meta at the gate. *There is a town smaller than your hand…*
 2. **The rock** (ecosystem poster — the money graphic, Robert's "agreed," 2026-11-02): the whole community in one frame, Centennial Towers behind. The map spread; children return to it.
-3. **The team** (How Lichen Work Together): Mr. Fungus builds the house; the Algae cook the food. *Nobody in Lichen Town lives alone — every lichen is two friends in one body.*
+3. **The team** (How Lichen Work Together): Mr. Fungus builds the house; the Algae cook the food. *Nobody in Lichen Town lives alone — every lichen is a household in one body.*
 4. **The town holding hands** (Lichen Town dedication plate): ALL ARE WELCOME.
 5. **The ring on the rock** (the boundary plate): where the neighbours meet, everybody stops politely at the line. *This is the true thing the man with the ruler found.*
 6. **The crowd** (Microbial Neighbors I): the bakery, the market, the dew wells — Town News: Everyone Coexists!
