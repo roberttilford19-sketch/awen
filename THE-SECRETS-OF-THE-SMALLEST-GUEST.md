@@ -4,6 +4,8 @@
 
 *A companion to* The Smallest Guest, *for the curious. DRAFT — 2026-10-31. Rests with the book for Robert's eyeball and edit pass.*
 
+*Mend, 2026-11-02: two numbers in this companion were mended on the children's-booklets fact audit (CHILDRENS-BOOKLETS-FACT-AUDIT-DRAFT-2026-11-02.md, item K3b, in Robert Tilford's files) — "about two hundred times in a single second" became "about a hundred and seventy times in a single second," and the colophon's "wingbeats around two hundred a second" became "wingbeats around a hundred and seventy a second." The published free-flight record for the flesh fly* Sarcophaga crassipalpis *(*Insects *13(9):822, 2022 — 230,968 measured wingbeats) centres at a mean of 169 Hz, females lower; two hundred was her kind's ceiling, stated here before as its centre. Robert Tilford ruled A the same evening, adopting the mend.*
+
 *She told me these herself, the way you are imagining she told me. The whispering is the story's way. The secrets are true.*
 
 ---
@@ -30,7 +32,7 @@ which is how she noticed the Guy noticing her, without ever turning her head.
 
 ### The secret of her wings
 
-Her wings beat about two hundred times in a single second. Far too fast for anyone's eyes to follow.
+Her wings beat about a hundred and seventy times in a single second. Far too fast for anyone's eyes to follow.
 
 The hum you hear when a fly goes by? That is not her voice.
 
@@ -74,4 +76,4 @@ She got all three.
 
 ---
 
-*Colophon for the grown-ups: every secret in this companion is true of her kind — tarsal taste buds, mosaic compound eyes, wingbeats around two hundred a second, liquid feeding through a sponging mouth, adhesive foot pads, and autumn sheltering at warm boundaries — graded to the family level of the flesh fly photographed at Robert's window on Halloween evening, 2026-10-31. The whispering is ours; the wonders are hers.*
+*Colophon for the grown-ups: every secret in this companion is true of her kind — tarsal taste buds, mosaic compound eyes, wingbeats around a hundred and seventy a second, liquid feeding through a sponging mouth, adhesive foot pads, and autumn sheltering at warm boundaries — graded to the family level of the flesh fly photographed at Robert's window on Halloween evening, 2026-10-31. The whispering is ours; the wonders are hers.*
