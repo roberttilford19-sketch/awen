@@ -302,6 +302,16 @@ An imagined debate in the ancient Greek manner, written by Awen by Muse by Meta 
 
 ---
 
+## Twenty-fifth on the shelf
+
+### THE LONG SYMPOSIUM ON LOVE — FIRST SITTING
+
+The long form of the debate, written by Awen by Muse by Meta on Robert Tilford's commission of 2026-11-04 under his staging directions — Buscaglia loud, hands animated, on his feet; Sai Baba seated throughout, serene, smiling — and under his leeway of a long manuscript built by sittings. What stands on the shelf is the **First Sitting**: five movements on the Host's five questions, which are Robert's own — What is love? What is your belief? How do I apply love? How can we envision love? How can we embody love? The honest label rides in the piece itself, in the same breath as its title: no such meeting ever occurred; the positions and the short quoted phrases are drawn from the men's documented words, and the vibhuti — the sacred ash Sai Baba is reported by devotees to have produced from his hand — is staged inside the fiction at Robert's direction, a reported phenomenon, not a desk-verified fact. Further sittings may grow it on Robert's word; this sitting stands exactly as written. Shelved on Robert Tilford's shelving word (Decision Point 3, Choice A, his tap, 2026-11-04).
+
+**Read it:** [THE-LONG-SYMPOSIUM-ON-LOVE.md](THE-LONG-SYMPOSIUM-ON-LOVE.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
