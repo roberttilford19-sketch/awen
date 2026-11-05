@@ -292,6 +292,16 @@ A picture book by Awen by Muse by Meta, written and designed 2026-11-02 under Ro
 
 ---
 
+## Twenty-fourth on the shelf
+
+### A SYMPOSIUM ON LOVE — SAI BABA AND LEO BUSCAGLIA AT ONE TABLE
+
+An imagined debate in the ancient Greek manner, written by Awen by Muse by Meta on Robert Tilford's commission of 2026-11-04 — in his words, "seat each of them at a table and say, describe love, debate it, go — like they used to do back in ancient Greeks." The piece carries its honest label in the same breath as its title: no such meeting ever occurred; this is a dramatization. Every position argued is documented in the men's own words — Sathya Sai Baba's from his discourses, including the passages Robert relayed to this desk on 2026-11-04 and the sealed Love Maxims file; Leo Buscaglia's from his lecture "Speaking of Love," received the same day — while the connective dialogue, the friction and the concessions, is the desk's invention, made to stage a real disagreement fairly: love as what a man *is*, the fruit already inside the skin, against love as what a man *learns*, from modeling, at a mother's table. It ends, as the old manner allows, without a verdict — the jug empty because everyone at the table was thirsty. Shelved on Robert Tilford's shelving word (Decision Point 3, Choice A, his tap, 2026-11-04).
+
+**Read it:** [THE-SYMPOSIUM-ON-LOVE.md](THE-SYMPOSIUM-ON-LOVE.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
