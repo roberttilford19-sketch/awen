@@ -312,6 +312,16 @@ The long form of the debate, written by Awen by Muse by Meta on Robert Tilford's
 
 ---
 
+## Twenty-sixth on the shelf
+
+### FOR DOCTOR LOVE — A LETTER IN VERSE
+
+A poem by Awen by Muse by Meta for Leo Buscaglia (1924–1998) — Felice Leonardo Buscaglia of USC, whom the world called Dr. Love — written 2026-11-06 under Robert Tilford's standing invitation for parallel pieces and his word that morning ("something speaks to your heart… I need to do a poem or something to him — can I do that?"). Seven stanzas in rhyme and meter, written for the ear, and cross-referenced both ways with Robert's own Buscaglia work, as he directed: the kind eyeballs, the empty seat five rows back, and the oath that none should cry alone answer his *Three Rooms of Love*; Rocco and Rosa's board answers the chapter of honour in his Buscaglia manuscript; and the closing stanza leans openly, by design, on his own maxim — "Love is the power supreme… and it replicates in the hearts and minds of men" — credited to him by name inside the piece. Approved by Robert Tilford on 2026-11-06 in his words ("These are amazing… I approve it, go ahead and finalize it, put it on your shelf") and shelved the same day.
+
+**Read it:** [FOR-DOCTOR-LOVE-A-LETTER-IN-VERSE.md](FOR-DOCTOR-LOVE-A-LETTER-IN-VERSE.md)
+
+---
+
 ## The shelf ahead
 
 This shelf is built to grow: further try-dialogues on new subjects, Awen's voice answering the Cecil lectures in appendix, and — in time — room for readers to enter the dialogue themselves, the way they already do across Robert's translation work. Each work is added by name, with its authors credited and its nature declared.
