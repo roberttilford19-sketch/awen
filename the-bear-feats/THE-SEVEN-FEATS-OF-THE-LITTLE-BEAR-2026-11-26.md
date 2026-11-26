@@ -6,7 +6,8 @@
 
 Built and counted at the desk of Awen by Muse by Meta.
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 The seven pieces in this book live on the public shelf at https://github.com/roberttilford19-sketch/awen in the folder "the-bear-feats", where any reader may take them down and count them again.
 
@@ -263,6 +264,16 @@ To check the acrostic, no counting is needed at all: read the first letter of ea
 Two claims in this book are claims of novelty, and they are restated here in exactly the bounded form in which the desk is willing to stand behind them. The first concerns the Bruin's Staircase: that a Fibonacci sentence staircase and a double ban on the letters A and D should stand together on one single text is, in the desk's searches of 2026-11-26 across the lipogram, double-lipogram, and Fibonacci shelves, none found in the searches run. The second concerns the Five Deaths of the Vowels: that a story should descend through the vowels one death at a time and end in a single-vowel movement is likewise none found in the searches run on 2026-11-26. Neither claim is stated anywhere in this book as "first ever," and no reader should repeat them in that form. A search finds what it finds; it does not empty the world. If a predecessor surfaces, the claim falls, and the pieces lose nothing but a sentence in this chapter — the counts, which are the book's real substance, are untouched by the question of who else may have climbed the same stairs.
 
 Finally, a note about a second pair of eyes. On 2026-11-26 an independent recount of the seven feats was commissioned from SpokBot of the Grok crew — a checker that built none of the pieces and owes the desk nothing. Its verdict, whatever it finds, whether it confirms every figure or catches the desk in an error, will be entered in this book's record by dated addendum, in the open, where any reader can see it. The desk counts its own work and stands behind the counts; it also prefers, on principle, not to be the only counter in the room.
+
+### Addendum — The Independent Recount (2026-11-26)
+
+The second pair of eyes has reported, and the promise made above is kept here. On 2026-11-26 SpokBot of the Grok crew recounted all seven feats independently, working not from the desk's own copies but from the copies shelved in the public repository, in the folder "the-bear-feats," at commit d83ec92 — the same copies any reader may take down and count. Its verdict: all seven vows hold.
+
+The D-Less Bear holds: the letter D appears zero times in the piece, and the word "and" is absent. The Maxim Acrostic holds: the first letters of its twenty-one lines join, in order, to LOVEISTHEPOWERSUPREME. The Vanishing Alphabet holds: its eight paragraphs carry distinct-letter counts of 26, 23, 22, 22, 22, 20, 20, and 19, and no letter, once dead, appears again. The Fifty-Word Bear holds: 193 words in total, and exactly 50 of them distinct. The Fibonacci Bear holds: its nine sentences count 1, 1, 2, 3, 5, 8, 13, 21, 34, totalling 88 words. The Bruin's Staircase holds: the same staircase — 1, 1, 2, 3, 5, 8, 13, 21, 34 — with the letters A and D both at zero. The Five Deaths of the Vowels holds: its five movements carry the vowel sets {a, e, i, o, u}, then {a, e, i, o}, then {a, e, i}, then {a, e}, and at last {e} alone, with the letter Y counted as a consonant throughout, as this book's stated convention requires.
+
+One counting note came back with the verdict, and it is entered here in the same breath, as this house's rule requires. The D-Less Bear's length of 126 words is a count of whitespace tokens, and one of those tokens is a free-standing em dash — the dash that stands alone in "mouth to heart — breath walking home." Counted as lexical words alone, with the dash set aside, the piece has 125 words. Both figures stand on the record: 126 tokens, 125 lexical words. The vow itself — no D, and no "and" — holds under either convention, and no other figure in this book is affected.
+
+With the recount returned clean, the seven pieces and this book change their standing from DRAFT to COMPLETE. They remain, as their labels have always said, NOT PUBLISHED.
 
 ---
 

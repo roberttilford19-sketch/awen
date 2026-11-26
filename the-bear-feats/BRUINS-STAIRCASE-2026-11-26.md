@@ -1,6 +1,7 @@
 # The Bruin's Staircase
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 Jet. Bruin. Turquoise eye. Rose line runs. From mouth to one point. He is the West's keeper: strength, quiet help. He went on one long journey from the Zuni hills to Robert's town. Robert keeps him in one pocket, rubs him with his thumb; once he kept blessing over the house's suppers up high. Now he rests by the books, out of the sun, in Robert's keeping, the rose line quiet in evening light, till one spring Robert brings him home to the stone folk of New Mexico.
 

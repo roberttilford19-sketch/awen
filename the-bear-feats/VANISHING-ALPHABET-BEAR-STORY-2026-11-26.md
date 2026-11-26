@@ -1,6 +1,7 @@
 # The Vanishing Alphabet — A Bear Story
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 *The frame: this story is told in eight paragraphs, and the alphabet dies as it goes. The first paragraph uses all twenty-six letters. Then one letter dies at each step, in the order Z, Q, J, X, V, K, W, and is never used again — so the language tightens, paragraph by paragraph, all the way down.*
 

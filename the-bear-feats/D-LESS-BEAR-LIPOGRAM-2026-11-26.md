@@ -1,6 +1,7 @@
 # THE D-LESS BEAR
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 The bear is small, black, smooth in a palm. He is jet, a tree grown patient in earth until time turn him to stone-light coal. A Zuni carver set his eye with turquoise, sky-blue, plus a heartline in coral from mouth to heart — breath walking home. Coral is sea-stuff, its hue the hue of life in veins. In Zuni country the bear keeps the West; he is strength, healing, shelter for whoever carries him. No name marks his feet; his style signs him. He was lost once, or given away, or simply left where houses empty. Now he sits in Kansas, by the books of a man who rubs his flank, keeps him from sun, waits for the right artisan to seal one tiny seam.
 

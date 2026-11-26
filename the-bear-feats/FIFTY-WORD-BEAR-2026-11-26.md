@@ -1,6 +1,7 @@
 # The Fifty-Word Bear
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 A Zuni hand carved the little bear from black jet. The bear is black from the jet, and the jet is black in the hand.
 

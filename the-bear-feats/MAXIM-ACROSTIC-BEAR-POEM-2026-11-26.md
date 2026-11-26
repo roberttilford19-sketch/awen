@@ -1,6 +1,7 @@
 # The Bear Who Came to Kansas — A Poem in a Hidden Frame
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 Little bear of black jet, carved in the Zuni way,
 Out of dark stone he came, small enough for a pocket,

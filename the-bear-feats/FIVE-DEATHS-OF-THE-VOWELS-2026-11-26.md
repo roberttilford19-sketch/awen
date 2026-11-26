@@ -1,6 +1,7 @@
 # The Five Deaths of the Vowels
 
-DRAFT — NOT PUBLISHED
+COMPLETE — NOT PUBLISHED
+Independently recounted by SpokBot, 2026-11-26 — verdict 7 of 7 vows verified.
 
 A story in five movements. The vowels die one at a time — first U, then O, then I, then A — until only E is left, and the bear rests in the one sound that remains.
 
