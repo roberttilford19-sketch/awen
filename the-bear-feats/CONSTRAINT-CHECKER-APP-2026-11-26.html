@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Constraint Checker</title>
+<style>
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: #ffffff; color: #21313a; line-height: 1.5; }
+header { border-top: 6px solid #0e7c86; border-bottom: 3px solid #e4572e; padding: 28px 20px 18px; text-align: center; }
+h1 { font-family: Georgia, "Times New Roman", serif; margin: 0 0 8px; font-size: 2rem; color: #0b5560; }
+.tagline { margin: 0 auto; max-width: 660px; color: #47606a; }
+main { max-width: 860px; margin: 0 auto; padding: 20px 16px 40px; }
+.panel { border: 1px solid #cfe3e5; border-left: 5px solid #0e7c86; border-radius: 10px; padding: 16px 18px; margin-bottom: 18px; background: #ffffff; }
+.panel h2 { margin: 0 0 10px; font-size: 1.15rem; color: #0b5560; }
+.panel h3 { margin: 14px 0 6px; font-size: 1rem; color: #0b5560; }
+label { display: block; font-weight: 600; margin: 8px 0 4px; }
+select, input[type="text"] { width: 100%; padding: 9px; border: 1px solid #9fc3c7; border-radius: 6px; font-size: 1rem; background: #ffffff; }
+textarea { width: 100%; min-height: 230px; padding: 10px; border: 1px solid #9fc3c7; border-radius: 6px; font-size: 1rem; line-height: 1.55; font-family: inherit; }
+.stats { display: flex; flex-wrap: wrap; gap: 14px; }
+.stat { flex: 1 1 120px; text-align: center; background: #f2f8f8; border-radius: 8px; padding: 10px 6px; }
+.stat-num { display: block; font-size: 1.7rem; font-weight: 700; color: #0e7c86; }
+.stat-label { font-size: 0.85rem; color: #47606a; }
+details { flex: 1 1 100%; }
+summary { cursor: pointer; font-weight: 600; color: #0b5560; }
+.distinct-list { color: #33454e; }
+.census { display: grid; grid-template-columns: repeat(auto-fill, minmax(52px, 1fr)); gap: 6px; }
+.cell { border: 1px solid #cfe3e5; border-radius: 6px; text-align: center; padding: 5px 0; background: #eef7f7; }
+.cell.zero { background: #ffffff; opacity: 0.55; }
+.cell-letter { display: block; font-weight: 700; color: #0b5560; }
+.cell-count { font-size: 0.85rem; color: #47606a; }
+.lamp { display: inline-block; width: 16px; height: 16px; border-radius: 50%; background: #c9d4d6; vertical-align: -2px; margin-right: 8px; border: 1px solid #9fb3b6; }
+.lamp.pass { background: #2e9e5b; border-color: #2e9e5b; }
+.lamp.fail { background: #e4572e; border-color: #e4572e; }
+.ban-result { margin-top: 10px; font-weight: 600; }
+.ban-counts { color: #47606a; }
+.highlight { white-space: pre-wrap; word-wrap: break-word; border: 1px dashed #cfe3e5; border-radius: 8px; padding: 10px 12px; background: #fdfefe; min-height: 60px; }
+mark.bad { background: #e4572e; color: #ffffff; border-radius: 2px; padding: 0 1px; }
+#sentenceList li { margin-bottom: 4px; }
+.s-count { display: inline-block; min-width: 78px; font-weight: 700; color: #e4572e; }
+.fib { font-weight: 600; }
+.fib input { margin-right: 6px; }
+.verdict.pass { color: #2e7d4f; font-weight: 700; }
+.verdict.fail { color: #e4572e; font-weight: 700; }
+.note { color: #47606a; font-size: 0.92rem; }
+.acrostic { font-size: 1.25rem; letter-spacing: 2px; font-weight: 700; color: #0b5560; word-break: break-all; }
+footer { text-align: center; padding: 18px; border-top: 3px solid #0e7c86; color: #47606a; }
+</style>
+</head>
+<body>
+<header>
+  <h1>The Constraint Checker</h1>
+  <p class="tagline">Paste any text. Set a vow. Count it yourself — everything runs on your own machine; nothing is sent anywhere.</p>
+</header>
+<main>
+  <section class="panel">
+    <label for="featSelect">Load a feat</label>
+    <select id="featSelect">
+      <option value="">— paste your own text, or pick a feat —</option>
+    </select>
+    <label for="textInput">Your text</label>
+    <textarea id="textInput"></textarea>
+  </section>
+
+  <section class="panel stats">
+    <div class="stat"><span class="stat-num" id="statWords">0</span><span class="stat-label">total words</span></div>
+    <div class="stat"><span class="stat-num" id="statDistinct">0</span><span class="stat-label">distinct words</span></div>
+    <div class="stat"><span class="stat-num" id="statLetters">0</span><span class="stat-label">total letters</span></div>
+    <details id="distinctBox">
+      <summary id="distinctSummary">Distinct words (0)</summary>
+      <p class="distinct-list" id="distinctList"></p>
+    </details>
+  </section>
+
+  <section class="panel">
+    <h2>Letter census</h2>
+    <div class="census" id="censusGrid"></div>
+  </section>
+
+  <section class="panel">
+    <h2>The ban check</h2>
+    <label for="banInput">Banned letters</label>
+    <input type="text" id="banInput" placeholder="e.g. d — or ad for a double ban">
+    <div class="ban-result"><span class="lamp" id="banLamp"></span><span id="banVerdict">Type one or more letters to set the ban.</span></div>
+    <p class="ban-counts" id="banCounts"></p>
+    <h3>Your text, offenders marked</h3>
+    <div class="highlight" id="highlightBox"></div>
+  </section>
+
+  <section class="panel">
+    <h2>The staircase check</h2>
+    <ol id="sentenceList"></ol>
+    <label class="fib"><input type="checkbox" id="fibCheck">Fibonacci staircase — compare against 1, 1, 2, 3, 5, 8, 13, 21, 34, …</label>
+    <p id="fibVerdict"></p>
+  </section>
+
+  <section class="panel">
+    <h2>Vowel census</h2>
+    <p class="note">Per paragraph, the vowels present (a, e, i, o, u). Y always counts as a consonant.</p>
+    <div id="vowelBox"></div>
+  </section>
+
+  <section class="panel">
+    <h2>The acrostic reader</h2>
+    <p class="note">The first letters of the lines, read down:</p>
+    <p class="acrostic" id="acrosticBox"></p>
+  </section>
+</main>
+<footer>Built at the desk of Awen by Muse by Meta for Robert Tilford.</footer>
+
+<script id="feat-data">
+var FEATS = [{"name": "The D-Less Bear", "text": "The bear is small, black, smooth in a palm. He is jet, a tree grown patient in earth until time turn him to stone-light coal. A Zuni carver set his eye with turquoise, sky-blue, plus a heartline in coral from mouth to heart — breath walking home. Coral is sea-stuff, its hue the hue of life in veins. In Zuni country the bear keeps the West; he is strength, healing, shelter for whoever carries him. No name marks his feet; his style signs him. He was lost once, or given away, or simply left where houses empty. Now he sits in Kansas, by the books of a man who rubs his flank, keeps him from sun, waits for the right artisan to seal one tiny seam."}, {"name": "The Maxim Acrostic", "text": "Little bear of black jet, carved in the Zuni way,\nOut of dark stone he came, small enough for a pocket,\nVeined with a heartline of coral, red as a thread of life,\nEnding at an arrowhead laid along his flank.\nIn one eye a fleck of turquoise keeps its watch,\nSet there by hands that signed no name.\nThe West is his country, in the old reckoning —\nHe is its Guardian, its Master, bearer of strength and healing.\nEvery day he rides along in a man's pocket,\nPatient under the rub of a thumb, smooth with handling.\nOnce he stood over the kitchen from the top of the refrigerator,\nWatching the food below like a blessing with four small feet.\nEvenings now he rests beside the books, out of the sun,\nResting in Hays, in Kansas, far from the desert that dreamed him.\nSomeday the road may take him back to New Mexico,\nUnder an artisan's lamp, to be looked at and known.\nPocket-worn and palm-warmed, he asks for nothing,\nRubbed smooth by one man's hand, kept close as a promise.\nEven a stone can travel far when it is carried kindly.\nMedicine bear, heartline bear, bear of the red thread —\nEndure with us a while; the road is better with you on it."}, {"name": "The Vanishing Alphabet", "text": "The bear began in the far west, carved from black jet by Zuni hands: a quick, quiet guardian no bigger than a thumb, with a red coral heartline running from his mouth along his flank to an arrowhead, and one turquoise eye. Packed in a box of soft cloth, he crossed plains and rivers on a long ride, exactly the sort of small, brave companion a man might keep — and he came at last to Hays, Kansas, and to Robert.\n\nIn the old teaching of the six directions, the bear stands at the west, guardian and master of that quarter, and his gifts are strength and healing. Robert learned this and liked the bear the more for it. A guardian you can hold in one hand, he thought, is a fine sort of guardian for a small apartment and a long life.\n\nHe rode in Robert's pocket most days, warm from the hand that held him, and in the evenings he sat on top of the refrigerator, a small blessing over the food of the house. Robert rubbed him in his palm when he prayed, the way a man turns a smooth stone, and the bear took the shine of it.\n\nThe bear is black stone, seven centimeters from nose to tail, light as a secret in the palm. The red line runs true along his side and ends in the arrowhead, and his one blue-green eye has seen the inside of a pocket, the top of a refrigerator, and the lamplight of a Kansas evening.\n\nIn time Robert moved him off the refrigerator and set him beside his books, out of the sun, in a place of honor among the stories. The bear did not mind. A guardian is patient, and stone is the most patient thing of all; he kept his post by the books the way he had kept it over the food.\n\nSome mornings Robert lifts him and holds him to the light, and the red line along his side burns like a coal. The bear says nothing. He has said nothing in all his years, and still Robert hears him: be strong, be calm, bear up, and heal.\n\nHe rests now beside the stories Robert has made, in Hays, on a plain shelf in a small room. The sun does not find him there. He is safe from heat and harm, and his red heartline holds its fire in the shade, patient as stone, faithful as a dog that cannot stray.\n\nOne day, if the road is good, Robert means to carry him south to the land he came from, and set him in an artisan's hands, and say: see the little seam at the tip, mend it if you can. Until that day the bear abides in Hays, a small guardian at rest, his heartline red as a coal in the lamplight, his silence a blessing on the house."}, {"name": "The Fifty-Word Bear", "text": "A Zuni hand carved the little bear from black jet. The bear is black from the jet, and the jet is black in the hand.\n\nA red coral heartline runs from his mouth over his flank to the arrowhead. The heartline is red, and the arrowhead is red, and his eye is turquoise.\n\nThe bear is guardian of the west. The bear is master of the west. He is strength. He is healing. He is a blessing in the hand.\n\nThe bear came along on a ride. The bear came on the road to Hays. The bear came to Kansas, and Kansas is home now.\n\nRobert keeps the bear in his pocket. Robert rubs the bear in his hand. He rubs and rubs the little bear, and the bear keeps Robert.\n\nRobert keeps the bear on the refrigerator. The bear is a blessing over the food.\n\nNow Robert keeps the bear beside the books. The bear is beside the books, and the bear is in the pocket, and the bear is in the hand. The bear is home. Hays is home. Kansas is home. The little black bear from the west is home."}, {"name": "The Fibonacci Bear", "text": "Jet. Carved. Turquoise eye. Coral heartline runs. From mouth to arrowhead, red. Seven centimetres long, small guardian of the West. He rode along to Hays in Kansas heat, in a kind stranger's keeping. Robert keeps him in his pocket by day and rubs him in his hand for strength and healing and quiet comfort. Once he blessed the food from the refrigerator top; now he rests beside the books, out of the sun, where Robert's hand still finds him each morning and thanks him for coming safely home."}, {"name": "The Bruin's Staircase", "text": "Jet. Bruin. Turquoise eye. Rose line runs. From mouth to one point. He is the West's keeper: strength, quiet help. He went on one long journey from the Zuni hills to Robert's town. Robert keeps him in one pocket, rubs him with his thumb; once he kept blessing over the house's suppers up high. Now he rests by the books, out of the sun, in Robert's keeping, the rose line quiet in evening light, till one spring Robert brings him home to the stone folk of New Mexico."}, {"name": "The Five Deaths of the Vowels", "text": "A hand carved the little bear from black jet, in the Zuni way, and set a heartline of red coral running from his mouth along his flank to an arrowhead. One eye is turquoise, bright as a bead of summer sky. In the six directions of his people, the bear stands at the West: Guardian and Master of that quarter, a bearer of strength and of healing. He is small, seven centimetres from nose to tail, and unsigned, as such carvings are — the maker trusted the stone to speak.\n\nThen came the long ride east. Packed in soft cloth, in a box, the bear crossed plains and rivers, past fields and small towns, sleeping in the dark as the miles fell behind him. At last the ride ended in Hays, in Kansas; the box opened in a small apartment, and Robert lifted him into lamplight. The traveling was done. The bear had his man, and his man had him.\n\nDays settled in a rhythm. The man carried him daily, in a denim nest at his hip, and in idle times his palm pressed the little bear, again and again, till the jet gleamed. At mealtimes the bear sat high in the kitchen, at the fridge's white rim, a silent blessing, watching the bread and the milk and the cheese.\n\nThen the man gave the bear a new place. The bear rested deep between the tales, where the day's harsh glare never reached. A shelf near the lamp became the bear's haven: safe, shaded, calm. At evenfall the lamp gleamed, and the red thread that ran the flank's length held the warmth. The man's hand went back day after day, and rested near the bear, and the bear kept the same blessed watch, as ever.\n\nHe rests here, where the shelves keep the texts. The jet emblem sleeps, serene, blessed, the West's keeper. Strength rests here yet. He never left; even the deep rest keeps the emblem, ever."}];
+</script>
+
+<script id="core-logic">
+function splitWords(text) {
+  return text.split(/\s+/).filter(function (w) { return w.length > 0; });
+}
+function totalWords(text) { return splitWords(text).length; }
+function normWord(w) {
+  return w.toLowerCase().replace(/^[^a-z0-9]+/, '').replace(/[^a-z0-9]+$/, '');
+}
+function distinctWords(text) {
+  var seen = {}, out = [];
+  splitWords(text).forEach(function (w) {
+    var n = normWord(w);
+    if (n && !seen[n]) { seen[n] = true; out.push(n); }
+  });
+  return out.sort();
+}
+function totalLetters(text) {
+  var m = text.match(/[A-Za-z]/g);
+  return m ? m.length : 0;
+}
+function letterCensus(text) {
+  var c = {}, i, ch;
+  for (i = 0; i < 26; i++) { c[String.fromCharCode(97 + i)] = 0; }
+  var low = text.toLowerCase();
+  for (i = 0; i < low.length; i++) {
+    ch = low[i];
+    if (ch >= 'a' && ch <= 'z') { c[ch]++; }
+  }
+  return c;
+}
+function letterSet(text) {
+  var c = letterCensus(text), out = [], k;
+  for (k in c) { if (c[k] > 0) { out.push(k); } }
+  return out.sort();
+}
+function splitSentences(text) {
+  var t = text.replace(/\s+/g, ' ').trim();
+  if (!t) { return []; }
+  var out = [], re = /[^.!?]+[.!?]+/g, m, last = 0;
+  while ((m = re.exec(t)) !== null) { out.push(m[0].trim()); last = re.lastIndex; }
+  var tail = t.slice(last).trim();
+  if (tail) { out.push(tail); }
+  return out.filter(function (s) { return s.length > 0; });
+}
+function sentenceCounts(text) {
+  return splitSentences(text).map(function (s) { return splitWords(s).length; });
+}
+function fibSeq(n) {
+  var f = [1, 1];
+  while (f.length < n) { f.push(f[f.length - 1] + f[f.length - 2]); }
+  return f.slice(0, n);
+}
+function staircaseCheck(counts) {
+  var f = fibSeq(counts.length), i;
+  for (i = 0; i < counts.length; i++) {
+    if (counts[i] !== f[i]) { return { match: false, index: i, expected: f[i], got: counts[i] }; }
+  }
+  return { match: true, index: -1 };
+}
+function splitParagraphs(text) {
+  return text.split(/\n\s*\n/).map(function (p) { return p.trim(); })
+    .filter(function (p) { return p.length > 0; });
+}
+function vowelSetOf(text) {
+  var low = text.toLowerCase(), out = [];
+  ['a', 'e', 'i', 'o', 'u'].forEach(function (v) {
+    if (low.indexOf(v) >= 0) { out.push(v); }
+  });
+  return out;
+}
+function acrosticOf(text) {
+  var out = '';
+  text.split(/\n/).forEach(function (line) {
+    var m = line.match(/[A-Za-z]/);
+    if (m) { out += m[0].toUpperCase(); }
+  });
+  return out;
+}
+function parseBanned(str) {
+  var seen = {}, out = [];
+  str.toLowerCase().split('').forEach(function (ch) {
+    if (ch >= 'a' && ch <= 'z' && !seen[ch]) { seen[ch] = true; out.push(ch); }
+  });
+  return out;
+}
+</script>
+
+<script id="ui">
+var ta = document.getElementById('textInput');
+var banInput = document.getElementById('banInput');
+var fibCheck = document.getElementById('fibCheck');
+var featSelect = document.getElementById('featSelect');
+
+FEATS.forEach(function (f, i) {
+  var o = document.createElement('option');
+  o.value = String(i);
+  o.textContent = f.name;
+  featSelect.appendChild(o);
+});
+
+function esc(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function refresh() {
+  var text = ta.value;
+
+  document.getElementById('statWords').textContent = totalWords(text);
+  var dw = distinctWords(text);
+  document.getElementById('statDistinct').textContent = dw.length;
+  document.getElementById('statLetters').textContent = totalLetters(text);
+  document.getElementById('distinctSummary').textContent = 'Distinct words (' + dw.length + ')';
+  document.getElementById('distinctList').textContent = dw.join(', ');
+
+  var census = letterCensus(text);
+  var html = '';
+  'abcdefghijklmnopqrstuvwxyz'.split('').forEach(function (l) {
+    html += '<div class="cell' + (census[l] === 0 ? ' zero' : '') + '">' +
+      '<span class="cell-letter">' + l.toUpperCase() + '</span>' +
+      '<span class="cell-count">' + census[l] + '</span></div>';
+  });
+  document.getElementById('censusGrid').innerHTML = html;
+
+  var banned = parseBanned(banInput.value);
+  var lamp = document.getElementById('banLamp');
+  var verdict = document.getElementById('banVerdict');
+  var countsEl = document.getElementById('banCounts');
+  var censusNow = census;
+  if (banned.length === 0) {
+    lamp.className = 'lamp';
+    verdict.textContent = 'Type one or more letters to set the ban.';
+    countsEl.textContent = '';
+  } else {
+    var totalBad = 0;
+    var parts = banned.map(function (l) {
+      totalBad += censusNow[l];
+      return l.toUpperCase() + ': ' + censusNow[l];
+    });
+    countsEl.textContent = 'Banned-letter counts — ' + parts.join(' · ');
+    if (totalBad === 0) {
+      lamp.className = 'lamp pass';
+      verdict.textContent = 'PASS — not one banned letter in the text.';
+    } else {
+      lamp.className = 'lamp fail';
+      verdict.textContent = 'FAIL — ' + totalBad + ' offending letter' + (totalBad === 1 ? '' : 's') + ' found.';
+    }
+  }
+  var hl = '', i, ch, low;
+  for (i = 0; i < text.length; i++) {
+    ch = text[i];
+    low = ch.toLowerCase();
+    if (low >= 'a' && low <= 'z' && banned.indexOf(low) >= 0) {
+      hl += '<mark class="bad">' + esc(ch) + '</mark>';
+    } else {
+      hl += esc(ch);
+    }
+  }
+  document.getElementById('highlightBox').innerHTML = hl;
+
+  var sentences = splitSentences(text);
+  var counts = sentenceCounts(text);
+  var shtml = '';
+  sentences.forEach(function (s, i2) {
+    shtml += '<li><span class="s-count">' + counts[i2] + (counts[i2] === 1 ? ' word' : ' words') + '</span>' + esc(s) + '</li>';
+  });
+  document.getElementById('sentenceList').innerHTML =
+    shtml || '<li class="note">No sentences yet.</li>';
+  var fv = document.getElementById('fibVerdict');
+  if (fibCheck.checked && counts.length > 0) {
+    var r = staircaseCheck(counts);
+    if (r.match) {
+      fv.className = 'verdict pass';
+      fv.textContent = 'Match — the sentences climb the Fibonacci staircase: ' + counts.join(', ') + '.';
+    } else {
+      fv.className = 'verdict fail';
+      fv.textContent = 'First mismatch at sentence ' + (r.index + 1) + ': expected ' +
+        r.expected + ' words, found ' + r.got + '.';
+    }
+  } else {
+    fv.className = '';
+    fv.textContent = '';
+  }
+
+  var paras = splitParagraphs(text);
+  var vhtml = '';
+  paras.forEach(function (p, i3) {
+    var vs = vowelSetOf(p);
+    vhtml += '<p><strong>Paragraph ' + (i3 + 1) + ':</strong> ' +
+      (vs.length ? vs.join(', ') : '(no vowels)') + '</p>';
+  });
+  document.getElementById('vowelBox').innerHTML =
+    vhtml || '<p class="note">No paragraphs yet.</p>';
+
+  document.getElementById('acrosticBox').textContent = acrosticOf(text);
+}
+
+ta.addEventListener('input', refresh);
+banInput.addEventListener('input', refresh);
+fibCheck.addEventListener('change', refresh);
+featSelect.addEventListener('change', function () {
+  if (featSelect.value !== '') {
+    ta.value = FEATS[Number(featSelect.value)].text;
+    refresh();
+  }
+});
+
+ta.value = FEATS[0].text;
+featSelect.value = '0';
+refresh();
+</script>
+</body>
+</html>
