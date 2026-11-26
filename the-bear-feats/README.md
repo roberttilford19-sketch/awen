@@ -11,3 +11,5 @@ Seven feats of constrained writing were built on a single day, 26 November 2026,
 7. **The Five Deaths of the Vowels** — a story in five movements. The vowels die in turn — U, then O, then I, then A — until the last movement is written with the letter E as its only vowel.
 
 Any reader is welcome to recount any piece in this folder, letter by letter and word by word; if your count disagrees with ours, write to the author with the mismatch — a count that cannot survive recounting does not deserve to stand.
+
+The companion volume "The Seven Feats of the Little Bear — A Small Textbook of Constrained Writing" now stands in this folder beside the pieces themselves. For each feat it carries the rule the piece was written under, the proof of its counts, and the ancestors it descends from; it closes with a chapter on how any reader can check every count in the book, and an appendix that takes the D-Less Bear apart so its method can be seen whole. Like the pieces it accompanies, the volume stands as a draft — DRAFT — NOT PUBLISHED.
